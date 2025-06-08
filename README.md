@@ -30,9 +30,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azli04&layout=compact&theme=radical" width="300"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azli04&theme=gruvbox&column=3&margin-w=15&margin-h=15" />
-</p>
